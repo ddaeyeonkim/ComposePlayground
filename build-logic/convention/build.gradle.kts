@@ -20,6 +20,10 @@ gradlePlugin {
             id = "composeplayground.android.application.compose"
             implementationClass = "AndroidApplicationComposeConventionPlugin"
         }
+        register("androidLibrary") {
+            id = "composeplayground.android.library"
+            implementationClass = "AndroidLibraryConventionPlugin"
+        }
         register("androidLibraryCompose") {
             id = "composeplayground.android.library.compose"
             implementationClass = "AndroidLibraryComposeConventionPlugin"

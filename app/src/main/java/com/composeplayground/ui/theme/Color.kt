@@ -1,4 +1,4 @@
-package com.ddaeyeonkim.composeplayground.ui.theme
+package com.composeplayground.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

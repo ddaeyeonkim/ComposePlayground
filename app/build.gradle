@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.ddaeyeonkim.composeplayground'
+    namespace 'com.composeplayground'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.ddaeyeonkim.composeplayground"
+        applicationId "com.composeplayground"
         minSdk 26
         targetSdk 33
         versionCode 1

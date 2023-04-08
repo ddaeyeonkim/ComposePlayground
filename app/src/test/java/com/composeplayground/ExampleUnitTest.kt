@@ -1,4 +1,4 @@
-package com.ddaeyeonkim.composeplayground
+package com.composeplayground
 
 import org.junit.Test
 

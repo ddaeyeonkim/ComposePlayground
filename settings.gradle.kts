@@ -13,5 +13,9 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+
+enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
+
 rootProject.name = "ComposePlayground"
 include(":app")
+include(":feature:facebook-messenger-like")
